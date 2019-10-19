@@ -10,6 +10,8 @@ public class Main
         sayHello s = new sayHello();
         System.out.println(s.getVar());
         ///
+        ////
+        System.out.println("new update");
     }
 
 
